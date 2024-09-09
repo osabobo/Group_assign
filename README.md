@@ -1,4 +1,4 @@
-# README: Exploratory Data Analysis of Posey Database
+# Exploratory Data Analysis of Posey Database
 
 ## Project Overview
 This analysis focuses on exploring key insights and visualizations from the Posey database, analyzing patterns, trends, and actionable insights to help guide decision-making.
